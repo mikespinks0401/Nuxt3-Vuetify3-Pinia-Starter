@@ -1,6 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 | Vuetify 3 | Pinia Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Look at the [Vuetify 3 Documentation](https://vuetifyjs.com/en/) to learn more about Vuetify
+
+Look at the [Pinia Documentation](https://https://pinia.vuejs.org/) to learn more about Pinia
+
+
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more about Nuxt
 
 ## Setup
 
