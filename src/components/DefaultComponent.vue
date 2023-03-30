@@ -27,7 +27,7 @@ const decrement = () => {
         <v-card>
             <v-card-text>
                 <div class="d-flex flex-column align-center">
-                    <h3 class="text-h3 px-4 py-2">Nuxt-Vuetify-Pinia Starter</h3>
+                    <h3 class="text-h3 px-8 py-2 font-weight-semibold">Nuxt 3-Vuetify 3-Pinia </h3>
                     <div class="py-4">
                         <p>Source Directory: "src"</p>
                         <p>V-app lives in the layout/default.vue</p>
