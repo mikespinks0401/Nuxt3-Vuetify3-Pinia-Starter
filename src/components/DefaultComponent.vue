@@ -29,9 +29,9 @@ const decrement = () => {
                 <div class="d-flex flex-column align-center">
                     <h3 class="text-h3 px-4 py-2">Nuxt-Vuetify-Pinia Starter</h3>
                     <div class="py-4">
-                        <p>Source Directory:  "src"</p>
+                        <p>Source Directory: "src"</p>
                         <p>V-app lives in the layout/default.vue</p>
-                        <p>Theme Type imported into plugins/vuetify.ts</p>
+                        <p>Theme Definition imported into plugins/vuetify for quick styling</p>
                         <p>Example Count Store @ ~/stores/count </p>
                     </div>
                     <div class="d-flex">
@@ -52,15 +52,16 @@ const decrement = () => {
                             icon="mdi-sprout-outline"
                         ></v-icon>
                     </div>
-            </div>
-        </v-card-text>
+                </div>
+            </v-card-text>
 
-    </v-card>
-</div>
+        </v-card>
+    </div>
 </template>
 
 <style scoped>
-p{
+p {
     font-size: 1.2em;
+    padding: 4px;
 }
 </style>
